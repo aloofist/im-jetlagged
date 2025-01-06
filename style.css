@@ -6,6 +6,12 @@
     font-family: sans-serif;
 }
 
+body{
+    background-image: url("/jetlagged.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .main {
     height: 100vh;
     width: 100%;
