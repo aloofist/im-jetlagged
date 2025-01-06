@@ -7,9 +7,15 @@
 }
 
 body{
-    background-image: url("/jetlagged.png");
+    /* background-image: url("/jetlagged.png");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 50% 0; */
+    overflow-x: hidden;
+}
+
+.jetlagged {
+    cursor: pointer;
 }
 
 .main {
